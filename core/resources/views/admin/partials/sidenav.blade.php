@@ -126,7 +126,6 @@
                                 </a>
                             </li>
 
-
                             <li class="sidebar-menu-item {{menuActive('admin.users.notification.all')}}">
                                 <a href="{{route('admin.users.notification.all')}}" class="nav-link">
                                     <i class="menu-icon las la-dot-circle"></i>
