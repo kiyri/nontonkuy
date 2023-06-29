@@ -133,7 +133,6 @@
                                     <span class="menu-title">@lang('Notification to All')</span>
                                 </a>
                             </li>
-
                         </ul>
                     </div>
                 </li>
