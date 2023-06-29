@@ -137,7 +137,6 @@
                         </ul>
                     </div>
                 </li>
-
             </ul>
             <div class="text-center mb-3 text-uppercase">
                 <span class="text--primary">{{__(systemDetails()['name'])}}</span>
